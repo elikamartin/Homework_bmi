@@ -1,0 +1,7 @@
+C:\Users\Elika-PC\source\repos\Kodutöö\Kodutöö\bin\Debug\Kodutöö.exe.config
+C:\Users\Elika-PC\source\repos\Kodutöö\Kodutöö\bin\Debug\Kodutöö.exe
+C:\Users\Elika-PC\source\repos\Kodutöö\Kodutöö\bin\Debug\Kodutöö.pdb
+C:\Users\Elika-PC\source\repos\Kodutöö\Kodutöö\obj\Debug\Kodutöö.csprojAssemblyReference.cache
+C:\Users\Elika-PC\source\repos\Kodutöö\Kodutöö\obj\Debug\Kodutöö.csproj.CoreCompileInputs.cache
+C:\Users\Elika-PC\source\repos\Kodutöö\Kodutöö\obj\Debug\Kodutöö.exe
+C:\Users\Elika-PC\source\repos\Kodutöö\Kodutöö\obj\Debug\Kodutöö.pdb
